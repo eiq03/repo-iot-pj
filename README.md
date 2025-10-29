@@ -71,8 +71,7 @@ O ESP8266, ao receber o comando, *aciona o relé, que **liga ou desliga a lâmpa
     - App SinricPro mostra se a lâmpada está *ligada* ou *desligada*.  
     - Alexa confirma por voz: “Lâmpada ligada/desligada”.  
 
-<img width="1665" height="735" alt="image" src="https://github.com/user-attachments/assets/d57eb21c-c1f7-44b7-a634-d9db92ed8578" />
-
+![Imagem do WhatsApp de 2025-10-28 à(s) 21 10 14_ef270727](https://github.com/user-attachments/assets/2f0b0591-fdab-420d-bc9a-23408bcfe23f)
 ---
 
 ## 🔌 Conexões
